@@ -1,0 +1,31 @@
+body {
+  background-color: #242424;
+  color: white;
+  padding: 2% 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  max-height: 40px;
+}
+
+table {
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+th {
+  border-bottom: 2px solid white;
+  padding: 0% 1%;
+}
+
+td {
+  padding: 0.5% 1%;
+}
